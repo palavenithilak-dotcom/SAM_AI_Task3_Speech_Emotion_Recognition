@@ -1,4 +1,4 @@
-# SAM AI Task 5 - Speech Emotion Recognition
+# SAM AI Task 3 - Speech Emotion Recognition
 
 A Streamlit-based Speech Emotion Recognition application created for the SAM AI Technologies Artificial Intelligence internship.
 
@@ -14,8 +14,16 @@ A Streamlit-based Speech Emotion Recognition application created for the SAM AI 
 - Handle low-confidence predictions
 
 ## Run
+
+1. Install the required dependencies:
+
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
+```
+
+2. Start the Streamlit application:
+
+```bash
 python -m streamlit run app.py
 ```
 
